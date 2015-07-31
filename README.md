@@ -29,6 +29,7 @@
 文字教程是视频教程的补充，当然还是希望您能够直接观看视频教程，更加详细。
 
 文字教程首发在 CSDN，也在 Cocos 的官网进行了连载。下面是CSDN的地址：
+
 [Cocos2d-x项目实战开发:功夫小子之需求分析和开发准备](http://blog.csdn.net/suool/article/details/45789429)
 
 [Cocos2d-x项目实战开发:功夫小子之基础类分析与实现](http://blog.csdn.net/suool/article/details/46236317)
